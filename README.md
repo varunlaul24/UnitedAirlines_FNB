@@ -6,3 +6,7 @@
 Provided actionable recommendations.
 
 Presentation Link: https://drive.google.com/file/d/1Ag1hkZlswhJ6UgLzp3f487nND8h09rEB/view?usp=drive_link
+
+Achieved a rank of <b>3 / 668</b> participants in the SKYHACK Hackathon conducted by United Airlines. <br>
+SKYHACK Hackathon: https://skyhack.hackerearth.com/#overview/ <br>
+Certificate of Achievement: https://drive.google.com/file/d/1G_ZAZd8ZDvIU2O9horaYrNLHp8PO-7g_/view?usp=drive_link
